@@ -11,4 +11,4 @@ Java
 
 ### Pulse
 
-![Pulse](images/pulse-dojo-ual.png)]
+![Pulse](images/pulse-dojo-ual.png)
