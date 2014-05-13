@@ -17,10 +17,8 @@ public class RomanToArabic {
 		roman_symbols.put("M",1000);		
 	}
 	
-	public int roman_to_arabic(String roman_number) {
-		
-		roman_number = roman_number.toUpperCase();		
-		
+	public int roman_to_arabic(String roman_number) {		
+		roman_number = roman_number.toUpperCase();				
 		int arabic_number = 0;
 		int length = roman_number.length();
 		for(int i=0; i < length - 1; i++) {			
