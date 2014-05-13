@@ -1,10 +1,10 @@
 ## Dojo UAL 
 
 #### Date
-Martes 13 de Mayo de 2014
+Tuesday 13, May 2014. University of Almería
 
 #### Kata
-Números romanos
+Convert roman numbers into arabic numbers.
 
 #### Language
 Java
