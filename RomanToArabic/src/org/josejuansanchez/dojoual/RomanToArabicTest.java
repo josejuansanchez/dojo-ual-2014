@@ -49,6 +49,12 @@ public class RomanToArabicTest {
 	}
 
 	@Test
+	public void when_ii_then_2() {
+		int result = RomanToArabic.roman_to_arabic("ii");
+		assertTrue(result == 2);
+	}	
+	
+	@Test
 	public void when_iii_then_3() {
 		int result = RomanToArabic.roman_to_arabic("iii");
 		assertTrue(result == 3);
