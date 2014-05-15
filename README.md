@@ -13,7 +13,7 @@ Java
 
 ### Pulse
 
-This is the activity obtained with [Pulse](http://www.happyprog.com/pulse/) during the coding session.
+This is the activity obtained with [Pulse](http://www.happyprog.com/pulse/) for the coding session.
 [Pulse](http://www.happyprog.com/pulse/) is a plugin for Eclipse that allows to monitor the heartbeat of your TDD flow.
 
 ![Pulse](images/pulse-dojo-ual.png)
